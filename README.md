@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python steg_vapt.py
+python secure-steganography-system.py
 ```
 
 ## Author
